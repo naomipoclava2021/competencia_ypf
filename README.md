@@ -1,3 +1,1 @@
-# competencia_ypf
-Estamos escribiendo desde jupyterhub
-creamos una rama desde github
+## Estamos trabajando desde la rama desarollo
